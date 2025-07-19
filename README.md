@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="Final_dashbaord" src="https://github.com/user-attachments/assets/d18009d9-e4bf-4a17-8de9-47cc5ab3aa54" /># Costco---Sales-Power-BI-Executive-Dashboard-Public
+# Costco---Sales-Power-BI-Executive-Dashboard-Public
 
 🚀 Objective
 Build an interactive and visually compelling dashboard for Costco’s global sales data (2020–2024) to unify sales insights across regions, product categories, and customer segments. The dashboard aims to centralize performance tracking, highlight growth opportunities, and support data-driven business decisions across executive and operational levels.
